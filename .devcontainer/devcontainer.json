@@ -13,7 +13,8 @@
 		"extensions": [
 			"GitHub.copilot",
 			"GitHub.copilot-chat",
-			"seatonjiang.gitmoji-vscode"
+			"seatonjiang.gitmoji-vscode",
+			"bradlc.vscode-tailwindcss"
 		]
 	}
 }
